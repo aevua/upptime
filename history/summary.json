@@ -22,17 +22,17 @@
     "url": "https://neurocracy.net",
     "icon": "https://icons.duckduckgo.com/ip3/neurocracy.net.ico",
     "slug": "neurocracy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 897,
-    "timeDay": 897,
-    "timeWeek": 897,
-    "timeMonth": 897,
-    "timeYear": 897,
+    "time": 742,
+    "timeDay": 742,
+    "timeWeek": 742,
+    "timeMonth": 742,
+    "timeYear": 742,
     "dailyMinutesDown": {}
   }
 ]
