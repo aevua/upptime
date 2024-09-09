@@ -5,11 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: aevua
     url: https://aev.com.ua
+  - name: aevua-dev
+    url: https://aevua.artas90.top
   - name: neurocracy
     url: https://neurocracy.net
-    icon: https://neurocracy.net/images/logo.jpg
-  - name: neurocracy-wrong
-    url: https://neurocracy2.net
     icon: https://neurocracy.net/images/logo.jpg
 
 status-website:
