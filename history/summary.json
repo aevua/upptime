@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 924,
-    "timeDay": 886,
-    "timeWeek": 924,
-    "timeMonth": 924,
-    "timeYear": 924,
+    "time": 913,
+    "timeDay": 871,
+    "timeWeek": 913,
+    "timeMonth": 913,
+    "timeYear": 913,
     "dailyMinutesDown": {}
   },
   {
@@ -23,38 +23,38 @@
     "icon": "https://neurocracy.net/images/logo.jpg",
     "slug": "neurocracy",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
-    "time": 757,
-    "timeDay": 756,
-    "timeWeek": 757,
-    "timeMonth": 757,
-    "timeYear": 757,
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
+    "time": 743,
+    "timeDay": 730,
+    "timeWeek": 743,
+    "timeMonth": 743,
+    "timeYear": 743,
     "dailyMinutesDown": {
       "2024-09-07": 16
     }
   },
   {
     "name": "neurocracy-wrong",
-    "url": "https://neurocracy3.net",
+    "url": "https://neurocracy2.net",
     "icon": "https://neurocracy.net/images/logo.jpg",
     "slug": "neurocracy-wrong",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "2.70%",
+    "uptimeDay": "2.70%",
+    "uptimeWeek": "2.70%",
+    "uptimeMonth": "2.70%",
+    "uptimeYear": "2.70%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 18
+      "2024-09-09": 37
     }
   }
 ]
