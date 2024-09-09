@@ -9,7 +9,7 @@ sites:
     url: https://neurocracy.net
     icon: https://neurocracy.net/images/logo.jpg
   - name: neurocracy-wrong
-    url: https://neurocracy2.net
+    url: https://neurocracy3.net
     icon: https://neurocracy.net/images/logo.jpg
 
 status-website:
