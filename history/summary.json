@@ -22,19 +22,19 @@
     "url": "https://aevua.artas90.top",
     "icon": "https://icons.duckduckgo.com/ip3/aevua.artas90.top.ico",
     "slug": "aevua-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 640,
-    "timeDay": 604,
+    "timeDay": 607,
     "timeWeek": 611,
-    "timeMonth": 627,
+    "timeMonth": 626,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2024-11-12": 0
+      "2024-11-12": 7
     }
   },
   {
