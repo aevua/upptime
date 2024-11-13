@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 791,
-    "timeDay": 1130,
-    "timeWeek": 766,
-    "timeMonth": 806,
-    "timeYear": 791,
+    "time": 789,
+    "timeDay": 627,
+    "timeWeek": 786,
+    "timeMonth": 810,
+    "timeYear": 789,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/aevua.artas90.top.ico",
     "slug": "aevua-dev",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 640,
-    "timeDay": 607,
-    "timeWeek": 611,
-    "timeMonth": 626,
-    "timeYear": 640,
-    "dailyMinutesDown": {
-      "2024-11-12": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 639,
+    "timeDay": 586,
+    "timeWeek": 607,
+    "timeMonth": 625,
+    "timeYear": 639,
+    "dailyMinutesDown": {}
   },
   {
     "name": "neurocracy",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 715,
-    "timeDay": 707,
-    "timeWeek": 665,
-    "timeMonth": 717,
-    "timeYear": 715,
+    "time": 714,
+    "timeDay": 631,
+    "timeWeek": 661,
+    "timeMonth": 715,
+    "timeYear": 714,
     "dailyMinutesDown": {}
   }
 ]
